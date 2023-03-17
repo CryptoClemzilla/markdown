@@ -1,0 +1,3 @@
+- [x] course
+- [x] ménage
+- [ ] dormir
